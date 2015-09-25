@@ -1,0 +1,48 @@
+news.alibis.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+news.atlantisnews.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+news.binaryboy.com has IPv6 2001:4de0:2101:119e::20 with succesful connect on port 119
+news.bulknews.eu has IPv6 2a02:d28:10:1c:0:407:ff02:164 with succesful connect on port 119
+news.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:164 with succesful connect on port 119
+block.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:165 with succesful connect on port 119
+reader.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+news.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+block.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+eu.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+us.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+news.easynews.com has IPv6 2001:4de0:401:7::170 with succesful connect on port 119
+eu.facebook.com has IPv6 2a03:2880:f006:1:face:b00c:0:1 with no connect on port 119 nor 563
+reader.google.com has IPv6 2a00:1450:4013:c01::69 with no connect on port 119 nor 563
+news.google.com has IPv6 2a00:1450:4013:c01::8a with no connect on port 119 nor 563
+news.iload-usenet.com has IPv6 2001:4de0:1::222 with succesful connect on port 119
+news.maximumusenet.com has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
+news.newsdemon.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+eu.newsdemon.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+us.newsdemon.com has IPv6 2001:4de0:2101:119e::23 with succesful connect on port 119
+news.newsgroup-binaries.com has IPv6 2001:4de0:2101:119e::20 with succesful connect on port 119
+eu.newsgroup-binaries.com has IPv6 2001:4de0:1::222 with succesful connect on port 119
+news.newsgroupdirect.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+us.newsgroupdirect.com has IPv6 2001:4de0:2101:119e::23 with succesful connect on port 119
+news.panic.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+news.prepaid-usenet.de has IPv6 2001:4de0:1::222 with succesful connect on port 119
+news.redorbnews.com has IPv6 2001:4de0:2101:119e::20 with succesful connect on port 119
+eu.redorbnews.com has IPv6 2001:4de0:1::222 with succesful connect on port 119
+us.redorbnews.com has IPv6 2001:4de0:2101:119e::20 with succesful connect on port 119
+news.shemes.com has IPv6 2001:4de0:1::222 with succesful connect on port 119
+news.simonews.com has IPv6 2001:4de0:1::236 with succesful connect on port 119
+reader.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+block.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+eu.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+us.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+reader.snelnl.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 119
+news.snelnl.com has IPv6 2001:4de0:1::236 with succesful connect on port 119
+news.thecubenet.com has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
+news.thundernews.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 119
+eu.thundernews.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 119
+us.thundernews.com has IPv6 2001:4de0:2101:119e::22 with succesful connect on port 119
+news.tigerusenet.com has IPv6 2001:4de0:2101:119e::23 with succesful connect on port 119
+news.usenet-access.com has IPv6 2001:4de0:2101:119e::20 with succesful connect on port 119
+news.usenetnewsserver.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 119
+news.xlusenet.nl has IPv6 2001:4de0:1::236 with succesful connect on port 119
+news.xs4all.nl has IPv6 2001:888:0:4::119 with succesful connect on port 119
+eu.z51.biz has IPv6 2001:4de0:1::236 with succesful connect on port 119
+us.z51.biz has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
