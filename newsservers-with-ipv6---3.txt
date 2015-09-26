@@ -1,0 +1,208 @@
+domain: 123usenet.nl
+domain: 4ux.nl
+domain: abook.ws
+domain: adzerk.net
+domain: aeton.nl
+domain: alibis.com
+news.alibis.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+domain: alienblue.org
+domain: altbinaries.com
+domain: altopia.com
+domain: anarqy.com
+domain: anonynews.com
+domain: apple.com
+domain: astinews.de
+domain: astraweb.com
+domain: atlantisnews.com
+news.atlantisnews.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+domain: bargainnewsfeeds.com
+domain: binaryboy.com
+news.binaryboy.com has IPv6 2001:4de0:2101:119e::21 with no connect on port 119 nor 563
+domain: bintube.com
+domain: blocknews.net
+domain: budgetnews.net
+domain: bulknews.eu
+news.bulknews.eu has IPv6 2a02:d28:10:1c:0:407:ff02:164 with succesful connect on port 563
+domain: cheapnews.eu
+news.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:164 with succesful connect on port 563
+block.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:165 with succesful connect on port 563
+domain: codeshy.com
+reader.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+news.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+block.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+eu.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+us.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+secure.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+secure.eu.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+secure.us.codeshy.com has IPv6 2a01:4f8:192:24ee::2 with no connect on port 119 nor 563
+domain: couchpota.to
+domain: co.uk
+domain: co.za
+domain: dognzb.cr
+domain: dozenzb.com
+domain: easynews.com
+news.easynews.com has IPv6 2001:4de0:401:7::170 with no connect on port 119 nor 563
+domain: easyusenet.nl
+domain: ensnews.com
+domain: eweka.nl
+domain: extremeusenet.nl
+domain: facebook.com
+eu.facebook.com has IPv6 2a03:2880:f01b:1:face:b00c:0:1 with no connect on port 119 nor 563
+secure.facebook.com has IPv6 2a03:2880:f006:1a:face:b00c:0:2b80 with no connect on port 119 nor 563
+domain: fastusenet.org
+domain: firstload.com
+domain: flashnewsgroups.com
+domain: forteinc.com
+domain: frugalusenet.com
+domain: gebruikhet.net
+domain: getnzb.com
+domain: giganews.com
+domain: github.com
+domain: google.com
+reader.google.com has IPv6 2a00:1450:4013:c01::63 with no connect on port 119 nor 563
+news.google.com has IPv6 2a00:1450:4013:c01::8a with no connect on port 119 nor 563
+domain: highwinds.com
+domain: hitnews.com
+domain: illiminews.com
+domain: iload-usenet.com
+news.iload-usenet.com has IPv6 2001:4de0:1::236 with no connect on port 119 nor 563
+domain: i-telligent.com
+domain: lad1337.de
+domain: maraschinoproject.com
+domain: maximumusenet.com
+news.maximumusenet.com has IPv6 2001:4de0:2101:119e::21 with no connect on port 119 nor 563
+domain: megabitz.net
+domain: mijnusenet.nl
+domain: mozilla.org
+domain: netfeeds.net
+domain: newsbin.com
+domain: newsconnection.eu
+domain: newsdemon.com
+news.newsdemon.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+eu.newsdemon.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+us.newsdemon.com has IPv6 2001:4de0:2101:119e::22 with succesful connect on port 563
+domain: newsfusion.net
+domain: newsgrabber.nl
+domain: newsgroup-binaries.com
+news.newsgroup-binaries.com has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
+eu.newsgroup-binaries.com has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+secure.newsgroup-binaries.com has IPv6 2001:4de0:2101:119e::22 with no connect on port 119 nor 563
+domain: newsgroupdirect.com
+news.newsgroupdirect.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+us.newsgroupdirect.com has IPv6 2001:4de0:2101:119e::22 with succesful connect on port 563
+domain: newsgroups-download.com
+domain: newsguy.com
+domain: newshosting.com
+domain: newsleecher.com
+domain: newsoo.eu
+domain: newsrazor.net
+domain: newsreader.com
+domain: newsxs.nl
+domain: newznab.com
+domain: ngprovider.com
+domain: ngroups.net
+domain: nntpjunkie.com
+domain: nzb360.com
+domain: nzbin.info
+domain: nzb.su
+domain: oznzb.com
+domain: panic.com
+news.panic.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+domain: powernews.nl
+domain: powerusenet.com
+domain: premiumnews.de
+domain: prepaid-usenet.de
+news.prepaid-usenet.de has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+domain: pureusenet.nl
+domain: readnews.com
+domain: reddit.com
+domain: redditgifts.com
+domain: redditmarket.com
+domain: reddit.tv
+domain: redorbnews.com
+news.redorbnews.com has IPv6 2001:4de0:2101:119e::21 with no connect on port 119 nor 563
+eu.redorbnews.com has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+us.redorbnews.com has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
+domain: rhinonewsgroups.com
+domain: sabnzbd.org
+domain: secretusenet.com
+domain: shemes.com
+news.shemes.com has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+domain: sickbeard.com
+domain: simonews.com
+news.simonews.com has IPv6 2001:4de0:1::236 with no connect on port 119 nor 563
+domain: smsusenet.nl
+reader.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+block.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+eu.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+us.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.eu.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.us.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+domain: snelnl.com
+reader.snelnl.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+news.snelnl.com has IPv6 2001:4de0:1::236 with no connect on port 119 nor 563
+domain: sonarr.tv
+domain: sonic-news.com
+domain: speedplaza.net
+domain: ssl-news.info
+domain: sunnyusenet.com
+domain: supernews.com
+domain: supernewsfeed.com
+domain: surfino.com
+domain: thecubenet.com
+news.thecubenet.com has IPv6 2001:4de0:2101:119e::21 with no connect on port 119 nor 563
+domain: thenewsgroups.com
+secure.thenewsgroups.com has IPv6 2001:4de0:2101:119e::22 with succesful connect on port 563
+domain: thundernews.com
+news.thundernews.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+eu.thundernews.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+us.thundernews.com has IPv6 2001:4de0:2101:119e::23 with no connect on port 119 nor 563
+secure.eu.thundernews.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+secure.us.thundernews.com has IPv6 2001:4de0:2101:119e::23 with succesful connect on port 563
+domain: tigerusenet.com
+news.tigerusenet.com has IPv6 2001:4de0:2101:119e::22 with no connect on port 119 nor 563
+domain: transxs.nl
+domain: tweaknews.eu
+domain: united-newsserver.de
+domain: usebits.net
+domain: usenet4u.nl
+domain: usenet-access.com
+news.usenet-access.com has IPv6 2001:4de0:2101:119e::21 with no connect on port 119 nor 563
+domain: usenetbin.net
+domain: usenetbucket.com
+domain: usenetbyorder.com
+domain: usenetcentral.com
+domain: usenetcompany.nl
+domain: usenet.farm
+domain: usenetmonster.com
+domain: usenet.net
+domain: usenet-news.net
+domain: usenetnewsserver.com
+news.usenetnewsserver.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+domain: usenet.nl
+domain: usenetnow.net
+domain: usenet.pro
+domain: usenetrocket.com
+domain: usenet.se
+domain: usenetserver.com
+domain: usenet-to-go.de
+domain: usenetxl.nl
+domain: usenext.com
+domain: voordeligusenet.nl
+domain: wondernews.eu
+domain: worldusenet.com
+domain: xennews.com
+domain: xlned.com
+domain: xlusenet.nl
+news.xlusenet.nl has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+secure.xlusenet.nl has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+domain: xs4all.nl
+news.xs4all.nl has IPv6 2001:888:0:4::119 with no connect on port 119 nor 563
+domain: xsnews.nl
+domain: xsusenet.com
+domain: yabnews.nl
+domain: z51.biz
+eu.z51.biz has IPv6 2001:4de0:1::222 with no connect on port 119 nor 563
+us.z51.biz has IPv6 2001:4de0:2101:119e::20 with no connect on port 119 nor 563
+domain: zendesk.com

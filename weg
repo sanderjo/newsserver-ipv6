@@ -1,0 +1,61 @@
+domain: 123usenet.nl
+domain: 4ux.nl
+domain: astraweb.com
+domain: cheapnews.eu
+news.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:164 with succesful connect on port 563
+block.cheapnews.eu has IPv6 2a02:d28:10:1b:0:431:ff02:165 with succesful connect on port 563
+domain: easynews.com
+news.easynews.com has IPv6 2001:4de0:401:7::170 with succesful connect on port 119
+domain: easyusenet.nl
+domain: eweka.nl
+domain: extremeusenet.nl
+domain: giganews.com
+domain: hitnews.com
+domain: i-telligent.nl
+i-telligent.nl has IPv6 2a01:238:20a:202:1066:: with no connect on port 119 nor 563
+domain: mijnusenet.nl
+domain: newsconnection.nl
+domain: newsdemon.com
+news.newsdemon.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+eu.newsdemon.com has IPv6 2001:4de0:401:7::146 with succesful connect on port 563
+us.newsdemon.com has IPv6 2001:4de0:2101:119e::22 with succesful connect on port 563
+domain: newsgrabber.nl
+domain: newshosting.com
+domain: newsxs.nl
+domain: nextgennews.net
+domain: powernews.nl
+domain: powerusenet.com
+domain: pureusenet.nl
+domain: rhinonewsgroups.com
+domain: smsusenet.nl
+smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+reader.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+block.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+eu.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+us.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.eu.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+secure.us.smsusenet.nl has IPv6 2a01:7c8:aab1:543::1 with no connect on port 119 nor 563
+domain: snelnl.com
+reader.snelnl.com has IPv6 2001:4de0:401:7::147 with succesful connect on port 563
+news.snelnl.com has IPv6 2001:4de0:1::236 with succesful connect on port 119
+domain: speedplaza.net
+domain: sunnyusenet.com
+domain: supernews.com
+domain: transxs.nl
+domain: tweaknews.eu
+domain: usenet4u.nl
+domain: usenetbucket.com
+domain: usenetcompany.nl
+domain: usenet.net
+domain: usenet.nl
+domain: usenet.pro
+domain: usenetserver.com
+domain: usenetxl.nl
+domain: voordeligusenet.nl
+domain: wondernews.eu
+domain: xlned.com
+domain: xsnews.nl
+xsnews.nl has IPv6 2001:67c:174:101:1:65:301:1 with no connect on port 119 nor 563
+domain: xsusenet.com
+domain: yabnews.nl

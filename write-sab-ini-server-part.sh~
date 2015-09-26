@@ -1,0 +1,24 @@
+#!/bin/sh
+
+echo '[['$1']]'
+
+username = ""
+priority = 0
+enable = 1
+displayname = news.thundernews.com
+name = news.thundernews.com
+ssl_type = t1
+notes = ""
+connections = 4
+ssl = 0
+host = news.thundernews.com
+timeout = 120
+send_group = 0
+password = ""
+optional = 0
+port = 119
+categories = Default,
+retention = 0
+
+
+
